@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< 0c58204eb540ee22e7fc17c4bd8449b5d0a8936a
 # test
 =======
@@ -29,3 +30,6 @@ Run this command in the application directory to run the test suite
 
 That's it! Now go build something cool.
 >>>>>>> first
+=======
+# test
+>>>>>>> 0c58204eb540ee22e7fc17c4bd8449b5d0a8936a
